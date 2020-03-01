@@ -12,6 +12,9 @@
 ### Configuration routes
 ```application/config/routes.php```
 
+## Demo
+
+<a href="https://www.e-type.it/demo/">Click here</a> to view demo portal
 
 
 ## Author
