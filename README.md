@@ -1,5 +1,7 @@
 # Basic CRM 
-This CRM based on CodeIgniter framework
+**Free Responsive CRM based on CodeIgniter Framework**
+
+<img src="https://i.ibb.co/pX205WH/sponsor-crm.png" width="80%" />
 
 ### Configuration Environment
 ```application/config/config.php```
